@@ -18,7 +18,7 @@ private int score = 0;
 private int totalBricks = 21;
 
 private Timer timer;
-private int delay = 8;
+private int delay = 8; // ball speed
 
 private int playerX = 310;
 
